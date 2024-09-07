@@ -1,4 +1,4 @@
-from app.models.models import Block, Blockchain
+from app.models.blockchain import Block, Blockchain
 from app import db
 
 class BlockchainService:
